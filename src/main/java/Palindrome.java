@@ -35,7 +35,7 @@ public class Palindrome {
         // // otherwise return false
         // return false;
 
-        // aside: ternary operator way equivalent above if-else 
+        // aside: ternary operator way equivalent to above if-else 
         return(str.equals(reverseString) ? true : false);
     }
 }
